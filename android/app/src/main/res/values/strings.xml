@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DawaDoor</string>
+    <string name="title_activity_main">DawaDoor</string>
+    <string name="package_name">pk.dawadoor.app</string>
+    <string name="custom_url_scheme">pk.dawadoor.app</string>
+</resources>

@@ -1,0 +1,12 @@
+{
+  "appId": "pk.dawadoor.app",
+  "appName": "DawaDoor",
+  "webDir": "www",
+  "server": {
+    "url": "https://dawadoor.vercel.app",
+    "errorPath": "offline.html"
+  },
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}
